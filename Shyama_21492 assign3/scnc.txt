@@ -1,0 +1,2 @@
+2022-04-02 23:04:49.137936 The Amount Of Rupees 199999 has been added Current Balance -> 1199998.0
+2022-04-02 23:05:24.728745 The Amount Of Rupees 89999 has been Debited Current Balance -> 1109999.0
